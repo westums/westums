@@ -51,7 +51,7 @@
       </p>
       <p align="center">
         <a href="https://github.com/westums/demo-manicure-bot"><b>Исходный код »</b></a><br>
-        <a href="https://telegram.org/demo_man1cure_bot"><b>Открыть в Telegram »</b></a>
+        <a href="https://web.telegram.org/demo_man1cure_bot"><b>Открыть в Telegram »</b></a>
       </p>
     </td>
     <td width="33%">
@@ -62,7 +62,7 @@
       </p>
       <p align="center">
         <a href="https://github.com/westums/demo-shop-bot"><b>Исходный код »</b></a><br>
-        <a href="https://telegram.org/clothes32_shop_bot"><b>Открыть в Telegram »</b></a>
+        <a href="https://web.telegram.org/clothes32_shop_bot"><b>Открыть в Telegram »</b></a>
       </p>
     </td>
     <td width="33%">
