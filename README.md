@@ -50,8 +50,8 @@
         <b>Стек:</b> Python, aiogram 3, APScheduler, SQLite.
       </p>
       <p align="center">
-        <a href="ССЫЛКА_НА_РЕПОЗИТОРИЙ_МАНИКЮРА"><b>Исходный код »</b></a><br>
-        <a href="ССЫЛКА_НА_БОТА_МАНИКЮРА"><b>Открыть в Telegram »</b></a>
+        <a href="https://github.com/westums/demo-manicure-bot"><b>Исходный код »</b></a><br>
+        <a href="@demo_man1cure_bot"><b>Открыть в Telegram »</b></a>
       </p>
     </td>
     <td width="33%">
@@ -61,8 +61,8 @@
         <b>Стек:</b> Python, aiogram 3, SQLite, Docker.
       </p>
       <p align="center">
-        <a href="ССЫЛКА_НА_РЕПОЗИТОРИЙ_МАГАЗИНА"><b>Исходный код »</b></a><br>
-        <a href="ССЫЛКА_НА_БОТА_МАГАЗИНА"><b>Открыть в Telegram »</b></a>
+        <a href="https://github.com/westums/demo-shop-bot"><b>Исходный код »</b></a><br>
+        <a href="@clothes32_shop_bot"><b>Открыть в Telegram »</b></a>
       </p>
     </td>
     <td width="33%">
